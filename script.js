@@ -1,2 +1,2 @@
 console.log ('Hi')
-error
+error 2
